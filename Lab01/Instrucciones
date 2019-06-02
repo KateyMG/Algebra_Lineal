@@ -1,0 +1,72 @@
+UNIVERSIDAD FRANCISCO MARROQUÍN 
+Álgebra Lineal sección “A” 
+Profesor: Christiaan Ketelaar
+Auxiliar: Carlos Morales 
+
+
+LABORATORIO # 1
+
+A.	Instalación de Python & Pycharm
+
+Usuarios Mac: https://youtu.be/oyzH4M6X6F4
+Usuarios Windows: https://www.youtube.com/watch?v=puBXxzcWJIQ
+
+
+B.	Comandos básicos
+
+Operaciones básicas:
+
+	      #comentario                   Utilice el símbolo numeral #  para escribir comentarios
+print (2 + 3)   		#suma
+print (4 * 5)   		#multiplicacion
+print (5 - 1)   		#resta
+print (40 / 2)  		#division
+print (2 ** 3)  		#potencia
+
+print ("Hola")              	#texto
+print ("Hola " + "Hola")   	#concatenacion de 2 textos
+print ("Hola " * 3)         	
+print (len("Hola"))        	#largo del texto
+
+x = 5           			#asignacion de valor a variable
+y = 3
+z = x*y         		#producto entre 2 variables
+print("El resultado de la multiplicacion es " + str(z)) 	#conversion de numero a texto
+print(x**y)
+
+
+A = [[1, 4, 5, 12],
+       [-5, 8, 9, 0],
+       [-6, 7, 11, 19]]		#Ingrese una matrix 3 x 3
+
+print("A = " + str(A))	             # imprime toda la matriz
+print("A[1] = " + str(A[1]))               # 2da fila
+print("A[1][2] = " + str(A[1][2]))       # 3er elemento de la 2da fila
+print("A[0][3] = " + str(A[0][3]))       # ultimo elemento de la 1ra fila
+
+A[0][3] = 4		         		 #cambie el ultimo elemento de la 1ra fila
+
+print("A[0][3] =" + str(A[0][3]))       # ultimo elemento de la 1ra fila
+
+
+EJERCICIOS
+
+1.	Cree 3 variables (Num1, Num2, Resultado), asigne cualquier valor numérico e imprima en consola los valores asignados
+2.	Realice las operaciones Suma, Resta, Multiplicación, División y Potencia, de Num1 y Num2, para cada resultado, almacene el valor en la variable Resultado.
+3.	Imprima en consola lo siguiente: El resultado de la suma entre Num1 y Num2 es Resultado (tome en cuenta que en lugar de Num1, Num2 y Resultado deberá imprimir los números correspondientes.
+4.	Cree una matriz de 5x5 y asignando los valores numéricos que desee.
+5.	Imprima en consola el contenido de la matriz.
+6.	Cambie los valores de la diagonal principal de la matriz por números diferentes a los actuales.
+7.	Imprima la nueva matriz.
+
+
+•	Para realizar este ejercicio abra un nuevo proyecto en PyCharm.
+•	Escriba todas los comandos en la consola de edición. 
+•	Escriba comentarios adecuados para describan que realiza cada comando.
+•	Guarde este documento  con nombre SuApellido_Lab01.py . 
+•	Envíe el documento al correo electrónico de su auxiliar y catedrático antes de que finalice el período de clase. 
+
+
+
+
+
