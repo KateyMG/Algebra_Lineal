@@ -1,0 +1,7 @@
+Ejercicios	
+(debe	imprimir	en	consola	cada	cambio	u	operación	realizada,	como	está	Lab2Comandos.py)	
+-Crear	2	matrices	A	y	B	de	10x10	cada	una	con	los	valores	que	usted	desee.	
+-Cambiar	las	diagonales	de	ambas	matrices	por	valores	diferentes.	
+-Realice	A+B,	A-B,	A*B,	producto	punto	y	producto	cruz	entre	A	y	B.	
+-Haga	la	transpuesta	de	A	y	la	transpuesta	de	B.	
+-Haga	FERR	de	la	matriz	C= 3 −6 9 0 −3 18 −1 2 −3 2 11 2 2 −4 6 −2 −12 4	
