@@ -1,0 +1,11 @@
+1. Si	es	posible	calcule	las	inversas	(usando	numpy,	sympy	y	FERR)	de	las	matrices	A,	B	y	C.	¿Cuáles	diferencias	observa	en	el	output	usando	numpy	y	usando	sympy?		(25	pts.)	
+	
+2. Encuentre	e	interprete	el	rango	de	las	matrices	A,	B	y	C.			(25	pts.)	
+	
+3. Encuentre	el	espacio	nulo	y	nulidad	de	A,	B	y	C.				(25	pts.)	
+	
+4. Grafique	en	Python	las	sigs.	funciones	lineales	(todas	en	la	misma	gráfica):		(25	pts.)		𝑓𝑥=1−𝑥								𝑔𝑥=𝑥−4										ℎ𝑥=𝑥+4										𝑖𝑥=6−𝑥
+
+Bonos:	
+	
+• Agregue	flechas	y	marcadores	“ticks”	a	los	ejes-x	&	ejes-y		(5	pts.)	• Agregue	una	cuadrícula	“grid”	y	un	título	a	la	gráfica	(5	pts.)	• Grafique	la	región	que	satisface	las	siguientes	desigualdades.	(20	pts.)		𝑦≥𝑓(𝑥) 𝑦≥𝑔(𝑥) 𝑦≤ℎ(𝑥) 𝑦≤𝑖(𝑥)	 
