@@ -1,0 +1,31 @@
+LABORATORIO # 4
+Uso de numpy y sympy.
+
+Comandos Numpy:  se utilizará la sublibrería linalg  de Álgebra Lineal
+   https://docs.scipy.org/doc/numpy/reference/routines.linalg.html
+	np.linalg.det( )
+	np.linalg.eigvals ( )
+	eigvals, eigvec = np.linalg.eig ( )
+
+Comandos Sympy:
+	sp.Matrix( ).eigenvals( )
+	sp.Matrix( ).eigenvects( )
+Despliega el eigenvalor, la multiciplidad y sus respectivos eigenvectores
+	sp.Matrix( ).diagonalize( )
+	sp.Matrix( )charpoly( )
+
+Para referencia pueden usar el archivo lab4.py que viene adjunto en las instrucciones.
+
+Ejercicios
+
+Debe imprimir en consola cada cambio u operación realizada.
+A=[■(1&1&0@1&0&1@0&1&0)],           B=[■(2&0&1&1@1&1&2&0@3&7&-3&1)],            C=[■(1&1&0&1@1&0&1&0@0&1&0&0@0&1&0&0)]
+
+	Si es posible calcule las determinantes (usando numpy y sympy) de las matrices A, B y C.
+	¿Cuáles diferencias observa en el output usando numpy y usando sympy?  (40 pts.)
+	Encuentre los Eigenvalores y Eigenvectores (usando numpy y sympy) de A y C.   (40 pts.)
+	Realice la diagonalización y encuentre el polinomio característico de A y C. utilizando sympy  (20 pts.)
+	BONO:  Despliegue sólo los eigenvectores con el comando sympy.  (10 pts.)
+	BONO:  Mida el tiempo en el que se corre  sp.Matrix().eigenvects() y np.linalg.eig. Determine si un método es más rápido que el otro .  (20 pts.)
+
+
