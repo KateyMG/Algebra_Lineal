@@ -1,0 +1,7 @@
+Ejercicios	
+	
+1. (50pts	)La	siguiente	tabla	proporciona	las	esperanzas	de	vida	para	las	personas	nacidas	en	Estados	Unidos	en	los	años	dados:	Año	de	nacimiento	1920	1930	1940	1950	1960	1970	1980	1990	Esperanza	de	vida	(años)	54.1	59.7	62.9	68.2	69.7	70.8	73.7	75.4	a. Determine	la	aproximación	lineal	por	mínimos	cuadrados	para	dichos	datos	y	úselos	para	predecir	la	esperanza	de	vida	de	alguien	nacido	en	el	año	2000.	b. ¿Qué	tan	bueno	es	el	modelo?	Explique.		
+	
+2. Una	empresa	pone	a	prueba	un	nuevo	refresco	en	22	ciudades	de	aproximadamente	el	mismo	tamaño.	El	precio	de	venta	(en	dólares)	y	el	número	vendido	por	semana	en	las	ciudades	se	detallan	en	la	tabla.	a. La	compañía	quiere	encontrar	la	"curva	de	demanda":	cuántos	venderá	a	cada	precio	potencial.	Sea	P	el	precio	y	S	las	ventas	por	semana.	Encuentre	la	línea						S	=	c1	+	c2P	que	mejor	se	ajuste	a	los	datos	de	la	tabla	en	el	sentido	de	mínimos	cuadrados.	Encuentra	las	ecuaciones	normales	y	los	coeficientes	c1	y	c2	de	la	
+línea	de	mínimos	cuadrados.	Dibuje	la	línea	de	mínimos	cuadrados	junto	con	los	datos	y	calcule	el	error	promedio	cuadrado.	b. Después	de	estudiar	los	resultados	del	mercadeo	de	prueba,	la	compañía	establecerá	un	precio	de	venta	único	P	en	todo	el	país.	Dado	un	costo	de	fabricación	de	$	0.23	por	unidad,	la	ganancia	total	(por	ciudad,	por	semana)	es	de	S	(P	-	0.23)	dólares.	Utilice	los	resultados	de	la	aproximación	de	los	mínimos	cuadrados	anteriores	para	encontrar	el	precio	de	venta	para	el	cual	se	maximizarán	las	ganancias	de	la	empresa.	
+	
